@@ -1,4 +1,4 @@
-package com.courseudemy.course.enums;
+package com.courseudemy.course.entities.enums;
 
 public enum OrderStatus {
     WAITING_PAYMENT(1),

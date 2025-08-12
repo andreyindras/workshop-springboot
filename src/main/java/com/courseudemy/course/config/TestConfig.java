@@ -1,7 +1,7 @@
 package com.courseudemy.course.config;
 
 import com.courseudemy.course.entities.*;
-import com.courseudemy.course.enums.OrderStatus;
+import com.courseudemy.course.entities.enums.OrderStatus;
 import com.courseudemy.course.repositories.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
